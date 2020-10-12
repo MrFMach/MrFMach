@@ -3,7 +3,7 @@
 
 - 🇧🇷 I want to be involved in the development of technologies in Brazil
 - 💻 I'm currently studying computer engineering
-- ⚡ I'm currently using c language a lot
+- ⚡ I'm currently using C/C++ language a lot
 - 🔭 I'm interested in iot
 - 🔭 I'm looking to use different embedded systems
 - 🌱 I want to learn more about RTOS
