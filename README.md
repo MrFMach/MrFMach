@@ -1,4 +1,5 @@
-## Hi! 👋🏾
+## Hi! I'm Fabio Machado
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabio-machado-b932a476/)](https://www.linkedin.com/in/fabio-machado-b932a476/)
 ### Welcome to my profile!
 
 - 🇧🇷 I want to be involved in the development of technologies in Brazil
@@ -11,4 +12,4 @@
 - 🦋 I like Raku langage
 
 ### What I like most in this area is the spirit of cooperation between developers. That way we will go far! 🚀🚀
-How to find me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabio-machado-b932a476/)](https://www.linkedin.com/in/fabio-machado-b932a476/)
+
