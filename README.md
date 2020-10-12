@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**MrFMach/MrFMach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🇧🇷 I want to be involved in the development of technologies in Brazil
+- 💻 I'm currently studying computer engineering
+- ⚡ I'm currently using c language a lot
+- 🔭 I'm interested in iot
+- 🔭 I'm looking to use different embedded systems
+- 🌱 I want to learn more about RTOS
+- 🌱 I want to learn more about FPGA
+- 🦋 I like Raku langage
 
-Here are some ideas to get you started:
+## What I like most in this area is the spirit of cooperation between developers. That way we will go far! 🚀🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+How to find me: https://www.linkedin.com/in/fabio-machado-b932a476/
