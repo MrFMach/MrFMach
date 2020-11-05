@@ -9,6 +9,6 @@
 - 🔭 I'm looking to use different embedded systems
 - 🌱 I want to learn more about RTOS
 - 🌱 I want to learn more about FPGA
-- 🦋 I like Raku langage
+- 🦋 I like Raku language
 
 #### What I like most in this area is the spirit of cooperation between developers. That way we will go far! 🚀🚀
