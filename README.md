@@ -11,4 +11,4 @@
 - 🌱 I want to learn more about FPGA
 - 🦋 I like Raku language
 
-#### What I like most in this area is the spirit of cooperation between developers. That way we will go far! 🚀🚀
+#### What I like most about computing is the philosophy of cooperativism among developers. Together we will go far! 🚀
