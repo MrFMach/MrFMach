@@ -1,15 +1,15 @@
-## E aí Dev! Eu sou o Fabio
+## E aí dev! Eu sou o Fabio
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabio-machado-b932a476/)](https://www.linkedin.com/in/fabio-machado-b932a476/)
 ### Seja bem vindo ao meu perfil!
 
-- 🇧🇷 quero fazer parte do avanço das tecnologias no Brasil
+- 🇧🇷 torço pelo avanço das tecnologias no Brasil, por brasileiros, e quero fazer parte disso
 - ⚡ tenho muita experiência com eletrônica e automação industrial
-- ❤️ após 20 anos, desde o curso técnico, tive um reencontro com a programação
-- 💻 hoje estudo engenharia da computação
+- ❤️ após 10 anos, desde a primeira faculdade, tive um reencontro com a programação
+- 💻 hoje estudo engenharia da computação, e está muito massa!
 - ✔️ atualmente as linguagens que mais utilizo são C/C++ e Python
-- 📡 tenho interesse em iot e sistemas embarcados no geral
+- 📡 tenho interesse em iot e em sistemas embarcados no geral
 - 📱 tenho muito interesse em mobile
-- 📱 estou dando uma sapeada no Dart e Flutter
+- 💎 estou dando uma sapeada no Dart e Flutter
 - 🦋 eu gosto da linguagem Raku, acho divertida
 
-#### Uma das coisas que mais curto nessa área é o espírito de cooperativismo entre os desenvolvedores. Juntos iremos longe! 🚀
+#### Uma das coisas que eu mais curto na comunidade Dev é o espírito de cooperativismo. Juntos iremos mais longe! 🚀
