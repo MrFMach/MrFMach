@@ -16,6 +16,6 @@
 
 📱 tenho muito interesse em mobile;
 
-💎 estou explorando Dart e Flutter;
+🎯 estou explorando Dart e Flutter;
 
-#### Uma das coisas que eu mais admiro na comunidade Dev é o espírito de cooperativismo. Juntos iremos mais longe! 🚀
+#### Uma das coisas que eu mais admiro na comunidade Dev é o espírito de cooperativismo. Acredito que dessa forma, iremos muito mais longe! 🚀
