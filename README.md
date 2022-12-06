@@ -8,7 +8,13 @@
 
 🧡 após 10 anos, desde a primeira faculdade, tive um reencontro com a programação;
 
-👨🏾‍💻 hoje eu estudo engenharia da computação, e estou adorando!
+💻 Estou no 5º ano de engenharia da computação. Essa é a minha segunda graduação e me sinto animado com cada novo aprendizado.
+
+🛰️ Tenho interesse em IoT, em sistemas embarcados e na convergência TI+TA.
+
+🇧🇷 Eu acredito no potencial do Brasil para o desenvolvimento de tecnologias e quero fazer parte disso.
+
+🤝🏽 Admiro quem compartilha o que sabe e eu tento fazer o mesmo. Acredito que assim toda a comunidade ganha força e avança com maior eficiência!
 
 ✅ as linguagens que eu mais utilizo nos estudos são C/C++ e Python;
 
@@ -17,5 +23,3 @@
 📱 tenho muito interesse em mobile;
 
 🎯 estou explorando Dart e Flutter;
-
-#### Uma das coisas que eu mais admiro na comunidade Dev é o espírito de cooperativismo. Acredito que dessa forma, iremos muito mais longe! 🚀
